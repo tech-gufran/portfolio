@@ -39,7 +39,7 @@ export default function Hero() {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.6 }}
-          className="text-white text-lg mt-8 max-w-2xl"
+          className="text-white text-lg mt-8 max-w-2xl mx-auto px-4 sm:px-6 md:px-8 lg:px-12 xl:px-16"
         >
           I am a passionate Full Stack Developer with expertise in creating scalable, 
           user-friendly web applications. I specialize in modern front-end and back-end 
