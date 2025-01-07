@@ -7,7 +7,7 @@ const projects = [
   {
     title: 'Chatbot Application Using React',
     description: 'Built an interactive chatbot application using React.js,integrating APIs to enable response and real-time information',
-    image: '/Chatbot.jpg'
+    image: '/Chatbot.png'
   },
   {
     title: 'Project 2',

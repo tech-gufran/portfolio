@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 
 export default function Hero() {
   return (
-    <section className="h-screen flex items-center justify-center bg-gradient-to-b from-black to-gray-900">
+    <section className="h-screen flex items-center justify-center bg-gradient-to-b from-black to-gray-900 pt-20 md:pt-32">
       <div className="text-center">
         <motion.h1 
           initial={{ opacity: 0, y: 20 }}
@@ -69,6 +69,15 @@ export default function Hero() {
             className="bg-gray-700 text-white px-8 py-3 rounded-full hover:bg-gray-800 transition-colors"
           >
             GitHub
+          </a>
+           {/* Gmail Button */}
+           <a 
+            href="mailto:gufransiddiqi111@gmail.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="bg-gray-700 text-white px-8 py-3 rounded-full hover:bg-gray-800 transition-colors"
+          >
+            Gmail
           </a>
         </motion.div>
       </div>

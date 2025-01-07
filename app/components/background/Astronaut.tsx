@@ -7,7 +7,7 @@ export default function Astronaut() {
   return (
     <motion.div
       className="absolute w-32 h-32"
-      style={{ top: '30%', right: '15%' }}
+      style={{ top: '30%', right: '5%' }}
       animate={{
         y: [0, 30, 0],
         rotate: [0, 10, -10, 0],
