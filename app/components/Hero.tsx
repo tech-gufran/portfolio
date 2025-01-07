@@ -63,7 +63,7 @@ export default function Hero() {
           </a>
           {/* GitHub Button */}
           <a 
-            href="https://github.com/GufranSiddiqui0101"
+            href="https://github.com/tech-gufran"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-gray-700 text-white px-8 py-3 rounded-full hover:bg-gray-800 transition-colors"
