@@ -20,7 +20,7 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="text-[32px] text-blue-400 mb-8"
         >
-          Full Stack Developer
+          Web Developer
         </motion.h2>
         <motion.div
           initial={{ opacity: 0, y: 20 }}
