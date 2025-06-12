@@ -41,9 +41,9 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.6 }}
           className="text-white text-lg mt-8 max-w-2xl mx-auto px-4 sm:px-6 md:px-8 lg:px-12 xl:px-16"
         >
-          I am a passionate Full Stack Developer with expertise in creating scalable, 
-          user-friendly web applications. I specialize in modern front-end and back-end 
-          technologies, delivering impactful digital solutions with a focus on quality and performance.
+           I am a dedicated Web Developer with a strong passion for building responsive, 
+          user-friendly websites. I focus on delivering clean and efficient front-end 
+          solutions while ensuring optimal performance and accessibility across all devices.
         </motion.p>
         {/* Social Links Section */}
         <motion.div
