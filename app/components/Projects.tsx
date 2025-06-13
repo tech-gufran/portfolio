@@ -10,8 +10,8 @@ const projects = [
     image: '/Chatbot.png'
   },
   {
-    title: 'Project 2',
-    description: 'Mobile app developed using React Native',
+    title: 'Expense Tracker Application',
+    description: 'Built an expense tracker app in React.js with Context API, enabling real-time income/expense tracking and transaction management via modular components.',
     image: '/project2.jpg'
   },
   {
